@@ -17,7 +17,7 @@ Helpful articles
 - [Jwt Tokens](https://www.c-sharpcorner.com/article/jwt-json-web-token-authentication-in-asp-net-core/)
 
 # 3. Running the projcet
-
+ 
 - Clone this repository
 - Build the solution using Visual Studio, or on the command line with **dotnet build**.
 - Run the AuthorizationMicroservice.API project. The API will start up on http://localhost:3002 with **dotnet run**.
