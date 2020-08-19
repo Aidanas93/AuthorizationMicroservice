@@ -7,6 +7,7 @@
 - MongoDB 4.2.x
 
 # 2. Before you start
+
 Helpful articles
 - [SOLID](https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/may/csharp-best-practices-dangers-of-violating-solid-principles-in-csharp)
 - [Onion Architecture](https://www.c-sharpcorner.com/article/onion-architecture-in-asp-net-core-mvc/)
