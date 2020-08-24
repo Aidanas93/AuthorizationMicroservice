@@ -1,8 +1,7 @@
 # 1. Prerequisite
 
 - .Net Core SDK 3.x
-- DotNet runtime 3.x
-- AspNet (AspDotNet) runtime 3.x
+- .Net Core runtime 3.x
 - Any environmental to run .Net Core SDK 3.x (e.g. Visual Studio 2019, Visual Code ect..)
 - MongoDB 4.2.x
 
