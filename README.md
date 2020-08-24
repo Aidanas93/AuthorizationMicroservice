@@ -120,3 +120,8 @@ Two main properties need to be initialized in order to run the database.
 ## Domain
 
 The **domain layer** is a collection of entity objects and related business logic that is designed to represent the enterprise business model.
+
+## Authors
+
+* **Aidanas Naugzemis**  - [Profile](https://github.com/Aidanas93)
+* **Mantas Valuckas** - [Profile](https://github.com/MantasVa)
